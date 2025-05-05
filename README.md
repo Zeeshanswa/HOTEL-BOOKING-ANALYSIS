@@ -4,7 +4,6 @@
 Excel dashboard analyzing booking trends, lead time, and cancellation rates.
 
 ## 📌 Key Highlights
-- 100% cancellation rate (example – update if needed)
 - $131,998.65 revenue loss due to cancellations
 - Guest meal preferences breakdown
 - Trend and segment analysis
